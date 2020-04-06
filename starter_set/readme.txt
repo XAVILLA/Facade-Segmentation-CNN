@@ -1,0 +1,5 @@
+0    'others',
+1    'facade',
+2    'pillar',
+3    'window',
+4    'balcony',
